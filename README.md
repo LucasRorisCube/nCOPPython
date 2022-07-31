@@ -29,10 +29,10 @@ output_prefix_results.txt is written in the Outputs directory. The file contain 
 III. How to run
 
 1. To run with basic inputs:\
-  python3 network_file.txt mutational_file.txt
+  python3 nCOP_main.py network_file.txt mutational_file.txt
 
 2. If you want to specify any additional parameter add in orden, pass "None" if you not can any especifically param:\
-  python3 network_file.txt mutational_file.txt None None My_output_file (this example don't use weight file neither alpha value, but pass a name of output file)
+  python3 nCOP_main.py network_file.txt mutational_file.txt None None My_output_file (this example don't use weight file neither alpha value, but pass a name of output file)
   
 IV. Input File Formats
 
