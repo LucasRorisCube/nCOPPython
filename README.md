@@ -46,3 +46,5 @@ GENE_ID INDIVIDUAL_5
 3. Weights file:\
 GENE_ID WEIGHT\
 TP53 0.59
+
+Any problem or suggestion with my algorithm, please send a message and we can solve.
